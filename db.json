@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "firstName": "Kenneth",
+      "lastName": "MacElholm",
+      "email": "kmacelholm1@sina.com.cn",
+      "dob": "1991-09-12T22:14:02Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "Agivu",
+      "experience": 75,
+      "salary": 17,
+      "id": 2
+    },
+    {
+      "firstName": "Curtis",
+      "lastName": "Crouse",
+      "email": "cecrouse96@yahoo.com",
+      "dob": "1996-10-16T04:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "cec tech",
+      "experience": 1,
+      "salary": 17000,
+      "id": 3
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Cartman",
+      "email": "cartmana@sp.com",
+      "dob": "1999-03-17T05:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "Dikinbaus",
+      "experience": 0,
+      "salary": 0,
+      "id": 4
+    }
+  ]
+}
